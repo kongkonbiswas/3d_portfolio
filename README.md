@@ -17,3 +17,33 @@ You'll also learn how to:
 - Ensure responsiveness across all devices and improve your site's performance using Suspense and Preload.
 
 ## Stay up to date with my new projects
+# jsm-portfolio
+
+Simple Responsive Portfolio by React and Sanity.
+
+## Features
+
+- UI/UX Design
+- Responsive Design
+- Three.js
+- JavaScript, React, HTML, SCSS
+- Customizable
+
+
+## Demo
+
+I am working on it.
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kongkonbiswas3241@gmail.com
+
+
+## Authors
+
+- [@kongkonbiswas](https://github.com/kongkonbiswas)
+
+## License
+
+[MIT License](LICENSE)
